@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Hanzo Auth",
+    "slug": "expo-auth",
+    "version": "1.0.0",
+    "scheme": "expo-auth",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ai.hanzo.auth"
+    },
+    "android": {
+      "package": "ai.hanzo.auth",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-web-browser"
+    ]
+  }
+}
