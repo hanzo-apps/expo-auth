@@ -1,5 +1,14 @@
 # Hanzo Auth
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fexpo-auth&template=expo-auth"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=expo-auth"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/expo-auth"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/expo-auth/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 OAuth 2.0 + PKCE sign-in against Hanzo IAM, with a route guard.
 
 **Live demo** — https://expo-auth.hanzo.app — the **same** app, rendered by react-native-web from this source. Not a mock-up.
